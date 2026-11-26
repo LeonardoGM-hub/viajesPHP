@@ -1,5 +1,5 @@
 <html>
-<head></head>
+<head><link rel="stylesheet" href="style.css"></head>
 <body>
     <form action="resivo.php" method="POST">
         <h1>Viajes el chino</h1>
